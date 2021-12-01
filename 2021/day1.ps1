@@ -21,4 +21,4 @@ function part2([int]$x = 0,[int]$y = 0) {
     $x++
   }
   $s
-} day1
+} part2
